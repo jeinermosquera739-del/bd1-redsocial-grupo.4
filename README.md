@@ -4,7 +4,7 @@
 - **Institución:** Institución Universitaria Pascual Bravo
 - **Facultad:** Facultad de Ingeniería — Tecnología en Desarrollo de Software
 - **Asignatura:** Bases de Datos I
-- **Docente**
+- **Docente:** Oralia Cortes Grajales
 - **Año:** 2026
 
 ## Integrantes del Equipo
